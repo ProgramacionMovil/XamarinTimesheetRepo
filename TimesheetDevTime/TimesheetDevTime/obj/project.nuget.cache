@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjZULDRheTXMjhKJ0QYA5lwTpAS/YdzN2o+VhvFiW4kn3isU8ESldoBsIALlb/5+P9G7aCwa/PDP8dEgJZGW0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JesusParra\\OneDrive - Blisoft S.A.S\\Documentos\\Universidad\\Programación Movil\\XamarinTimesheetRepo\\TimesheetDevTime\\TimesheetDevTime\\TimesheetDevTime.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JesusParra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JesusParra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JesusParra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\JesusParra\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\JesusParra\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
