@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1TjCqNoDKm8p8FCdw1xpoqMwy49MP4raMvuM5i60t+Fqd1gb2HDP1967irW0vosJFthjsZgiT6T3frrvf1xoWw==",
+  "dgSpecHash": "7z1pfOWlvFbxwvfP5oOp8b/NQlOzreipI7OCHeMXKUCXlvW5f73ASqW5khoWwtHsOrytT9fRH9YC4E5RUybHbA==",
   "success": true,
   "projectFilePath": "C:\\Users\\JesusParra\\OneDrive - Blisoft S.A.S\\Documentos\\Universidad\\Programación Movil\\XamarinTimesheetRepo\\TimesheetDevTime\\TimesheetDevTime.Android\\TimesheetDevTime.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\JesusParra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\JesusParra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\JesusParra\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\JesusParra\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",
